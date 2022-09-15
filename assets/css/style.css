@@ -1,4 +1,4 @@
-@import url('/fonts/stylesheet.css');
+
 @import url('https://fonts.googleapis.com/css2?family=Cuprum&display=swap');
 
 
@@ -301,7 +301,6 @@ main section:nth-child(2) h1::before {
     max-width: 1818px ;
 }
 .benefit1 {
-    background-image: url(/assets/img/bg-img/sc1-kitchen.jpg); 
     width: 586px;
     height: 350px;
     color: #ffffff;
@@ -315,7 +314,6 @@ main section:nth-child(2) h1::before {
     border-bottom: #44C697 solid 3px;
 }
 .benefit2 {
-    background-image: url(/assets/img/bg-img/sc1-meeting.jpg); 
     width: 586px;
     height: 350px;
     color: #ffffff;
@@ -335,7 +333,6 @@ main section:nth-child(2) h1::before {
     font-weight: normal;
 }
 .benefit3 {
-    background-image: url(/assets/img/bg-img/sc1-van.jpg); 
     width: 586px;
     height: 350px;
     color: #ffffff;
